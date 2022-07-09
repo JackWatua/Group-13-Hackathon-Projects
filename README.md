@@ -1,2 +1,1 @@
-# my_bucket
-udacity-project1
+Group 13 project
